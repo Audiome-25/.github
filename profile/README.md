@@ -8,8 +8,8 @@
 
 *AudioMe transforms books into immersive and interactive journeys that connects creators and booklovers worldwide.*
 
-[![App Store](https://img.shields.io/badge/Download-App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com)
-[![Play Store](https://img.shields.io/badge/Download-Play%20Store-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com)
+[![App Store](https://img.shields.io/badge/Download-App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/audiome-inc/id6751253460)
+[![Play Store](https://img.shields.io/badge/Download-Play%20Store-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.audiome.project)
 [![Website](https://img.shields.io/badge/Visit-audiome.tech-00d4ff?style=for-the-badge&logo=safari&logoColor=white)](https://audiome.tech)
 
 </div>
@@ -96,8 +96,8 @@ Turn written stories into immersive audio and reach listeners everywhere.
 
 **Download for free and start your journey today!**
 
-[![App Store](https://img.shields.io/badge/App%20Store-Download-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com)
-[![Play Store](https://img.shields.io/badge/Play%20Store-Download-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com)
+[![App Store](https://img.shields.io/badge/App%20Store-Download-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/audiome-inc/id6751253460)
+[![Play Store](https://img.shields.io/badge/Play%20Store-Download-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.audiome.project)
 
 ---
 
